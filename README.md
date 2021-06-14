@@ -1,4 +1,4 @@
-# MIAMI layout
+# MIAMI LAYOUT
 
 Technology - HTML5/CSS3/JS, BEM, SCSS
 
